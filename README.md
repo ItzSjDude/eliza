@@ -10,7 +10,9 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 ## Installing
 
 ### The Easy Way
-https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakshya-man05/eliza)
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakshya-man05/eliza)
+ 
 
 # Generate String Session From Below Links:-
 
